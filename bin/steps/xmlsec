@@ -15,7 +15,7 @@ VENDORED_XMLSEC1="https://s3.amazonaws.com/mmvendored/xmlsec1-1.2.tgz"
 source $BIN_DIR/utils
 
 
-apt-get -y update && apt-get -y install libxml2-dev python-libxml2
+#apt-get -y update && apt-get -y install libxml2-dev python-libxml2
 
 bpwatch start xmlsec_install
 # If xmlsec exists within requirements, use vendored libmemcached.
