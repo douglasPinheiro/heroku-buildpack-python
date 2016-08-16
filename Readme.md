@@ -52,5 +52,3 @@ Runtime options include:
 - `pypy-5.0.1` (unsupported, experimental)
 
 Other [unsupported runtimes](https://github.com/heroku/heroku-buildpack-python/tree/master/builds/runtimes) are available as well. Use at your own risk. 
-
-*this version contains unrar package

@@ -208,10 +208,6 @@ sub-env $BIN_DIR/steps/geo-libs
 echo "---> Run Step xmlsec"
 source $BIN_DIR/steps/xmlsec
 
-# unrar support
-echo "---> Run Step unrar"
-source $BIN_DIR/steps/unrar
-
 # GDAL support.
 source $BIN_DIR/steps/gdal
 
